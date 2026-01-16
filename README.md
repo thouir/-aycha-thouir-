@@ -16,11 +16,11 @@
 </ul>
 <h2>🛠️ Skills & Technologies</h2>
 
+<h3>Embedded Systems</h3>
+<p><code>ESP32</code> <code>Raspberry Pi</code> <code>Arduino</code> <code>STM32</code></p>
+
 <h3>Frameworks</h3>
 <p><code>ROS2</code> <code>Micro-ROS</code> <code>ESP-IDF</code> <code>FreeRTOS</code></p>
-
-<h3>Embedded Systems</h3>
-<p><code>Raspberry Pi</code> <code>ESP32</code> <code>Arduino</code> <code>STM32</code></p>
 
 <h3>Programming</h3>
 <p><code>Python</code> <code>C</code> <code>C++</code> <code>Java</code></p>
@@ -30,7 +30,7 @@
 
 <h3>Tools & Development</h3>
 <p><code>Linux (Ubuntu)</code> <code>VS Code</code> <code>Git</code></p>
-<h2>🛠 Technical Stack</h2>
+
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
