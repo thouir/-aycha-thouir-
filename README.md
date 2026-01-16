@@ -5,8 +5,6 @@
 
 <p>
   <a href="mailto:thouiraycha@gmail.com"><img src="https://img.shields.io/badge/Email-thouiraycha%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"></a>
-  <a href="https://linkedin.com/in/aycha-thouir-26494b2a2"><img src="https://img.shields.io/badge/LinkedIn-Aycha%20Thouir-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn Badge"></a>
-  <a href="tel:+21694252436"><img src="https://img.shields.io/badge/Phone-%2B216%2094%20252%20436-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone Badge"></a>
 </p>
 
 <h2>⚡️ A Few Quick Facts</h2>
@@ -41,14 +39,6 @@
   <a href="tel:+21694252436">📱 Phone</a>
 </p>
 
-<h2>📊 GitHub Statistics</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
 <p align="center">
   <i>"Engineering tomorrow's intelligent systems today"</i>
 </p>
