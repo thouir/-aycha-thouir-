@@ -9,8 +9,6 @@
   <a href="tel:+21694252436"><img src="https://img.shields.io/badge/Phone-%2B216%2094%20252%20436-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone Badge"></a>
 </p>
 
-<img align="right" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" />
-
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I'm currently working on <strong>real-time embedded systems</strong> and <strong>wearable technology</strong> projects.</li>
