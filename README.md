@@ -14,7 +14,22 @@
 <li>💬 Ping me about <strong>embedded systems, IoT, robotics, ESP32, and communication protocols</strong>.</li>
 <li>🎯 Looking for opportunities in <strong>embedded systems and IoT development</strong>.</li>
 </ul>
+<h2>🛠️ Skills & Technologies</h2>
 
+<h3>Frameworks</h3>
+<p><code>ROS2</code> <code>Micro-ROS</code> <code>ESP-IDF</code> <code>FreeRTOS</code></p>
+
+<h3>Embedded Systems</h3>
+<p><code>Raspberry Pi</code> <code>ESP32</code> <code>Arduino</code> <code>STM32</code></p>
+
+<h3>Programming</h3>
+<p><code>Python</code> <code>C</code> <code>C++</code> <code>Java</code></p>
+
+<h3>Networking & Communication</h3>
+<p><code>MQTT</code> <code>I2C</code> <code>SPI</code> <code>UART</code> <code>LoRa</code></p>
+
+<h3>Tools & Development</h3>
+<p><code>Linux (Ubuntu)</code> <code>VS Code</code> <code>Git</code></p>
 <h2>🛠 Technical Stack</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25" />
@@ -43,6 +58,3 @@
   <i>"Engineering tomorrow's intelligent systems today"</i>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat-square" alt="Profile Views" />
-</p>
