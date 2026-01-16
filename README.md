@@ -19,7 +19,7 @@
 <h3>Embedded Systems</h3>
 <p><code>ESP32</code> <code>Raspberry Pi</code> <code>Arduino</code> <code>STM32</code></p>
 
-<h3>Frameworks</h3>
+<h3>Development Platforms & Tools/h3>
 <p><code>ROS2</code> <code>Micro-ROS</code> <code>ESP-IDF</code> <code>FreeRTOS</code></p>
 
 <h3>Programming</h3>
