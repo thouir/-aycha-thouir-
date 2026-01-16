@@ -46,14 +46,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" width="25" height="25" />
 </p>
 
-<h2>📫 Let's Connect!</h2>
-<p>I'm always interested in discussing embedded systems, IoT projects, or potential collaborations. Feel free to reach out!</p>
-<p>
-  <a href="mailto:thouiraycha@gmail.com" style="margin-right: 10px;">📧 Email</a>
-  <a href="https://linkedin.com/in/aycha-thouir-26494b2a2" style="margin-right: 10px;">💼 LinkedIn</a>
-  <a href="tel:+21694252436">📱 Phone</a>
-</p>
-
 <p align="center">
   <i>"Engineering tomorrow's intelligent systems today"</i>
 </p>
